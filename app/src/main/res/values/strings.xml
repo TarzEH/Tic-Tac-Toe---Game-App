@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="todo">TODO</string>
+    <string name="develop_by_ori_matan"><![CDATA[Develop By: Ori&Matan]]></string>
+    <string name="welcome_x_o_game"><![CDATA[Welcome X&O Game]]></string>
+    <string name="do_you_want_to_go_back">Do You Want To Go Back?</string>
+    <string name="do_you_want_to_exit">Do You Want to Exit?</string>
+    <string name="player_won">Player Won</string>
+    <string name="button">Button</string>
+    <string name="inshead">Game Description</string>
+    <string name="noughts_and_crosses_tic_tac_toe_3x3_a1_a3_c3">איקס עיגול (או בשמותיו באנגלית: noughts and crosses = בריטית, או tic-tac-toe = אמריקאית), הנקרא גם איקס מיקס דריקס הוא משחק לשני שחקנים המשוחק על לוח של 3x3 משבצות. כל שחקן בתורו מסמן סימן באחת המשבצות (לרוב איקס או עיגול, ומכאן שם המשחק) השחקן המנצח הוא זה שהצליח למלא שורה, טור או אלכסון בסימנים שלו. אם אף שחקן לא הצליח לעשות זאת עד שכל המשבצות מלאות, המשחק נגמר בתיקו. בדרך כלל נהוג להתחיל במשבצת קיצונית וזאת כדי ליצור בהמשך שורה וטור (או שורה ואלכסון, וכדומה) שבכל אחד מהם שני סימונים, כאשר אם יבחר השחקן השני למנוע אחד מהם, ינצח השחקן המתחיל בעזרת שני הסימונים האחרים (לדוגמה: השחקן ראשון שם ב-A1, A3, ו-C3). בשל טכניקות אלו בדרך כלל מגיע השחקן שהתחיל שני למצב של הפסד או תיקו. במונחי תורת המשחקים, המשחק הוא משחק פתור: לשני השחקנים במשחק יש תכסיס תיקו. כלומר, כל שחקן יכול במקרה הגרוע להבטיח לעצמו תיקו אם ישחק משחק מושלם. לפיכך, אם שני השחקנים משחקים בצורה הטובה ביותר, הם יגיעו לתיקו.</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="button1">start play</string>
+    <string name="todo1">TODO</string>
+    <string name="button11">Return</string>
+    <string name="movie_example">Movie Example</string>
+</resources>
